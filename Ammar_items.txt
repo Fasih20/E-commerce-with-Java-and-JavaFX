@@ -1,0 +1,4 @@
+Clothes,234,Ammar,E:\Coding files\Practice programs\Projectuitest\product_1685079040864.jpg
+Toothbrush,987,Ammar,E:\Coding files\Practice programs\Projectuitest\product_1685079082973.jpg
+Shampoo,12,Ammar,E:\Coding files\Practice programs\Projectuitest\product_1686283028097.jpg
+Bike,120,Ammar,E:\Coding files\Practice programs\Projectuitest\product_1703320299769.jpg

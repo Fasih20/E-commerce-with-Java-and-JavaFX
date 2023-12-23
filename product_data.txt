@@ -1,0 +1,6 @@
+Toothbrush,987,Ammar,E:\Coding files\Practice programs\Projectuitest\product_1703317895954.jpg
+Clothes,100,Fasih,E:\Coding files\Practice programs\Projectuitest\product_1685079789433.jpg
+Windows,123,Fasih,E:\Coding files\Practice programs\Projectuitest\product_1702874708991.jpg
+Windows,123,Fasih,E:\Coding files\Practice programs\Projectuitest\product_1703320014839.jpg
+Asad,123,Fasih,E:\Coding files\Practice programs\Projectuitest\product_1703320017945.jpg
+Bike,120,Ammar,E:\Coding files\Practice programs\Projectuitest\product_1703320299769.jpg

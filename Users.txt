@@ -1,0 +1,14 @@
+usrn:Fasih
+psd:fasih
+usrn:Ammar
+psd:ammar
+usrn:Safwan
+psd:root3
+usrn:Asad
+psd:root2
+usrn:Shayan
+psd:root1
+usrn:Rafay
+psd:r123
+usrn:Ali
+psd:root5

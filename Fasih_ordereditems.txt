@@ -1,0 +1,5 @@
+
+Clothes,100,Fasih,E:\Coding files\Practice programs\Projectuitest\product_1685079789433.jpg
+Windows,123,Fasih,E:\Coding files\Practice programs\Projectuitest\product_1702874708991.jpg
+Windows,123,Fasih,E:\Coding files\Practice programs\Projectuitest\product_1703320014839.jpg
+kdclkl,123,Fasih,E:\Coding files\Practice programs\Projectuitest\product_1703320017945.jpg
